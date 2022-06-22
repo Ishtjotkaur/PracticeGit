@@ -7,6 +7,7 @@ export default class index extends Component {
         <h1>This is my heading</h1>
         <p>here i am goint to write some info</p>
         <p>Now i am making here more changes</p>
+        <p>1st insertion done by 1st person</p>
         <p>Now changes are made from another side</p>
         <p>sugar sweet</p>
       </div>
