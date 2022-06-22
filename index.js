@@ -8,6 +8,7 @@ export default class index extends Component {
         <p>here i am goint to write some info</p>
         <p>Now i am making here more changes</p>
         <p>Now changes are made from another side</p>
+        <p>sugar sweet</p>
       </div>
     )
   }
