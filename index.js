@@ -9,6 +9,7 @@ export default class index extends Component {
         <p>Now i am making here more changes</p>
         <p>Now changes are made from another side</p>
         <p>sugar sweet</p>
+        <p>2nd made a change when both users working at the same time</p>
       </div>
     )
   }
